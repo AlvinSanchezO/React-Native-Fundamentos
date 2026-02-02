@@ -19,8 +19,8 @@ Desarrollar una interfaz interactiva que implemente los componentes estructurale
 
 ## Evidencias de Funcionamiento
 
-| Vista Inicial | Interacción | Resultado Final |
-|---|---|---|
+| Vista Inicial | Interacción |
+|---|---|
 | ![App Inicial](assets/1.jpeg) | ![Escribiendo Nombre](assets/2.jpeg) | 
 
 
