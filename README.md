@@ -21,7 +21,7 @@ Desarrollar una interfaz interactiva que implemente los componentes estructurale
 
 | Vista Inicial | Interacción | Resultado Final |
 |---|---|---|
-| ![App Inicial](assets/1.jpeg) | ![Escribiendo Nombre](assets/2.jpeg) | ![Alerta de Saludo](https://via.placeholder.com/200x400?text=Captura+3) |
+| ![App Inicial](assets/1.jpeg) | ![Escribiendo Nombre](assets/2.jpeg) | 
 
 
 ## 💡 Aprendizajes Clave (Respuestas a la Actividad)
